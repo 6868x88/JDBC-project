@@ -12,7 +12,7 @@ Java Swing을 이용하여 반려동물용 요리 프로그램을 제작하였�
 ```
 <br>
 👇프로그램 개발 및 기능 설명은 아래 링크에서 확인하실 수 있습니다.<br>
-[프로젝트_최종PPT_강지은.pdf](https://github.com/6868x88/jieun_project/files/9178774/_.PPT_.pdf)
+(https://github.com/6868x88/jieun_project/files/9178774/_.PPT_.pdf)
 
 
 ***
