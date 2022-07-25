@@ -15,7 +15,6 @@ Java Swing을 이용하여 반려동물용 요리 프로그램을 제작하였�
 (https://github.com/6868x88/jieun_project/files/9178478/_.PPT_.pdf)
 
 ***
-<br>
 
 ### 💻 프로그램
 - 개요 
@@ -28,11 +27,9 @@ Java Swing을 이용하여 반려동물용 요리 프로그램을 제작하였�
 <br>이러한 트렌드를 반영하여 <b>펫푸드 프로그램</b>을 개발하는 프로젝트를 진행하였습니다.
 
 
-<br>
+
 ### ⚙️ 개발환경
 - java jdk-8u331
 - oracle XE-21C
-
-<br>
 
 ***
