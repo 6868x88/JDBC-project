@@ -19,7 +19,7 @@ public class IngredientDAO {
 	private ResultSet rs;
 	private PreparedStatement ps;
 	
-	//DB¿¬°á
+	//DBì €ìž¥
 	public void connDB() {
 		try {
 			Class.forName(driver);
@@ -33,7 +33,7 @@ public class IngredientDAO {
 		}
 	}
 	
-	//Àç·á °Ë»ö ¸®½ºÆ®
+	//ê²€ìƒ‰
 	public ArrayList<IngredientVo> search(String ingreName){
 		ArrayList<IngredientVo> list = new ArrayList<IngredientVo>();
 		try {
